@@ -1,0 +1,19 @@
+header  {
+    border-bottom: 2px groove white;
+}
+
+.img-grid {
+    display: inline-block;
+}
+
+img {
+    width: 300px;
+}
+
+#mission-stat {
+    border-bottom: 2px groove white;
+}
+
+td  {
+    text-align: center;
+}
